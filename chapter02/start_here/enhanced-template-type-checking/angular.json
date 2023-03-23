@@ -116,7 +116,6 @@
       }
     }
   },
-  "defaultProject": "enhanced-template-type-checking",
   "cli": {
     "analytics": false
   }
