@@ -1,3 +1,4 @@
+import { Input } from '@angular/core';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -6,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./notifications-button.component.scss']
 })
 export class NotificationsButtonComponent implements OnInit {
-
+  @Input() count =0
   constructor() { }
 
   ngOnInit(): void {
