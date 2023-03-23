@@ -129,7 +129,6 @@
       }
     }
   },
-  "defaultProject": "cc-ng-on-changes",
   "cli": {
     "analytics": false
   }
