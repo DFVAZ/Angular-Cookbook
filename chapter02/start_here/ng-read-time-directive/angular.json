@@ -116,7 +116,6 @@
       }
     }
   },
-  "defaultProject": "ng-read-time-directive",
   "cli": {
     "analytics": false
   }
