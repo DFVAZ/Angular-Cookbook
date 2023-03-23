@@ -116,7 +116,6 @@
       }
     }
   },
-  "defaultProject": "multi-structural-directives",
   "cli": {
     "analytics": false
   }

@@ -116,7 +116,6 @@
       }
     }
   },
-  "defaultProject": "ng-if-not-directive",
   "cli": {
     "analytics": false
   }
