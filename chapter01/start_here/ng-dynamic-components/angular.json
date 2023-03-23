@@ -129,7 +129,6 @@
       }
     }
   },
-  "defaultProject": "ng-dynamic-components",
   "cli": {
     "analytics": false
   }

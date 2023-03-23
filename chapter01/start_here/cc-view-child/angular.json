@@ -129,7 +129,6 @@
       }
     }
   },
-  "defaultProject": "cc-view-child",
   "cli": {
     "analytics": false
   }
