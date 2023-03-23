@@ -129,7 +129,6 @@
       }
     }
   },
-  "defaultProject": "cc-setters",
   "cli": {
     "analytics": false
   }

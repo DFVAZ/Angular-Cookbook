@@ -129,7 +129,6 @@
       }
     }
   },
-  "defaultProject": "cc-template-vars",
   "cli": {
     "analytics": false
   }
