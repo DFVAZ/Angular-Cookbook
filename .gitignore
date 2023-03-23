@@ -36,3 +36,5 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+chapter02/start_here/ad-attribute-directive/package-lock.json
+chapter02/start_here/enhanced-template-type-checking/package-lock.json
