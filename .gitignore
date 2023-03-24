@@ -38,4 +38,4 @@ testem.log
 Thumbs.db
 chapter02/start_here/ad-attribute-directive/package-lock.json
 chapter02/start_here/enhanced-template-type-checking/package-lock.json
-chapter04/
+chapter04/*
