@@ -117,7 +117,6 @@
       }
     }
   },
-  "defaultProject": "ng-di-token",
   "cli": {
     "analytics": false
   }

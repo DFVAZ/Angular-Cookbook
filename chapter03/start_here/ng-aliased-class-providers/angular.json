@@ -117,7 +117,6 @@
       }
     }
   },
-  "defaultProject": "ng-aliased-class-providers",
   "cli": {
     "analytics": false
   }
